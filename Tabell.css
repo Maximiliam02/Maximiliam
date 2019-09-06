@@ -1,0 +1,120 @@
+body{
+       
+   
+}
+
+
+.table1
+{
+width: 1000px;
+border-collapse:collapse;
+    border:1px solid black;
+
+
+}
+.tr1{
+    background-color:white;
+    
+}
+
+.tr2{
+    background-color:yellow;
+    
+}
+
+.tr3{
+    background-color:blue;
+    
+}
+
+.tr4{ 
+    background-color:red;
+    
+}
+
+.tr5{
+    background-color: green;
+    
+    
+}
+
+td:nth-child(2){
+    text-align:center;
+}
+
+td:nth-child(3){
+    text-align:center;
+}
+    
+
+td:nth-child(4){
+    text-align:right;
+}
+
+caption{
+    caption-side:bottom;
+    font-size:50px;
+}
+
+
+th:nth-child(4){
+    text-align:right;
+}
+
+th:nth-child(1){
+    text-align:left;
+}
+
+td{
+   border:1px solid black;
+}
+th{
+   border:1px solid black;
+}
+
+
+
+
+
+
+
+
+
+.blue{
+    background-color:blue;
+    
+}
+
+.red
+{
+    height:100px; 
+    background-color: red;
+}
+
+.yellow
+{
+    background-color:yellow; 
+    height:100px;
+}
+
+.black
+{
+     background-color:black;
+}
+
+
+.green
+{
+    background-color:#01FD01;
+    height:100px;
+}
+
+.table2{
+    width:500px;
+    border="1" 
+    background-color:"#99cc66";
+     border:1px solid black;
+    border-collapse:collapse;
+}
+
+    
