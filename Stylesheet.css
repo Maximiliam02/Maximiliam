@@ -1,0 +1,58 @@
+.wrapper
+{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas: "content1 content2";
+	
+}
+.section
+{
+	display:grid;
+	grid-area: content1;
+	
+}
+.section1
+{
+	display:grid;
+	grid-area: content2;
+	
+}
+.content2
+{
+	display:grid;
+	grid-area: content2;
+}
+	
+body
+{
+	color:#FF33E3;
+	background-color:yellow;	
+	font-size: 22px;
+	font-style:ariel;
+	
+	
+}
+p.program
+{
+color:pink;
+background-color: black;
+text-align: center;
+
+
+}
+p.me
+{
+text-shadow: -1px 0 black, 0 1px black,1px 0 black, 1px 0 black;
+border-style: solid;
+}
+p.tankar
+{
+	text-align:right;	
+}
+
+a
+{
+	text-decoration:none;
+	
+	
+}
